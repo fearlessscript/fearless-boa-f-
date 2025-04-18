@@ -48,4 +48,3 @@ end
 
 -- LOOP DO AIMBOT RunService.RenderStepped:Connect(function() circleFrame.Position = UDim2.new(0.5, 0, 0.5, 0) local target = getClosestEnemy() aimAtTarget(target) end)
 
-
